@@ -28,6 +28,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile 'com.github.bumptech.glide:glide:3.7.0'
-
+//    compile 'com.github.donkingliang:CustomBanner:1.1.2'
+//    compile 'com.github.zllAndroid:CustomBanner-master:v1.0'
     compile project(":banner")
 }
